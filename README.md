@@ -1,7 +1,7 @@
 # Optimal Convergence Rate for Average-Reward Reinforcement Learning with General Parametrized Actor and Neural Critic
 
 ## Required environments:
-- see requirements.txt file
+- see [Requirements.txt](arnac_dd/requirements.txt) file
 
 ## How to run our algorithm
 
