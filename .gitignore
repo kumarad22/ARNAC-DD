@@ -1,0 +1,13 @@
+**/merge_csv.py
+
+# 1. Ignore all .csv files everywhere
+**/*.csv
+
+# 2. Un-ignore (negate) only the files ending in _merged.csv
+!**/*_merged.csv
+
+# Ignore all TensorBoard event files across all directories
+**/*.tfevents.*
+
+logs/hc/merge_csv_1.py
+logs/hc/merge_csv_2.py
